@@ -1,4 +1,5 @@
 Bíblia Consultor
+
 Este projeto é uma aplicação Java que permite consultar versículos da Bíblia usando a API de uma fonte online. O objetivo é fornecer uma interface simples para acessar e visualizar passagens bíblicas específicas, facilitando a pesquisa de textos sagrados.
 
 Recursos:
